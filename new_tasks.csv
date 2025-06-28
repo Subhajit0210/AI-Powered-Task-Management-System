@@ -1,0 +1,3 @@
+clean_summary,issue_type,priority,task_assignee,task_deadline,status,project_name,project_type,project_lead,project_description,resolution,text_length,date_added
+revamp login ui	,story,medium,alice johnson,,progress,New Project,software,AI System,AI-generated task,unresolved,16,2025-06-28 11:47:41
+revamp login ui	,story,medium,alice johnson,,progress,New Project,software,AI System,AI-generated task,unresolved,16,2025-06-28 11:50:36
